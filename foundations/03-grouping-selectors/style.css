@@ -1,0 +1,14 @@
+.normal {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.weird {
+    background-color: yellow;
+}
+
+.normal, .weird {
+    font-size: 28px;
+    font-family: 'Helvetica', "Times New Roman", sans-serif;
+}
